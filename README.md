@@ -4,4 +4,4 @@ Predictive analytics encompasses a variety of statistical techniques from data m
 
 Key techniques in supervised machine learning are demostrated, such as classification using decision trees and nearest neighbour algorithms, and regression analysis. A particular emphasis is shown on evaluation of the performance of these algorithms.
 
-Apart from these further topics are also covered such as dimension reduction and cross validation and hyperparamter tuning for evalatuion. 
+Apart from these further topics are it also covered topics such as dimension reduction and cross validation and hyperparamter tuning for evalatuion. 
